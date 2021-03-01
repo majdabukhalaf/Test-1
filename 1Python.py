@@ -1,0 +1,2 @@
+#Display welcome 
+print("Welcome")
